@@ -7,3 +7,5 @@
 ---
 12.2024 newspaper: https://u33549.github.io/nukte/1224/
 ---
+06.2025 newspaper: https://u33549.github.io/nukte/0625/
+---
